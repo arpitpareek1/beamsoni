@@ -52,7 +52,7 @@ const PortfolioDetailsMain = ({singleData}) => {
                         <img className="img__full" src={image3.src} alt="portfolio" />
                     </div>
                 </div>
-                <div className="row mt-40">
+                {/* <div className="row mt-40">
                     <div className="col-lg-4 lg-mb-15">
                         <h3>The Challenges</h3>
                     </div>
@@ -60,8 +60,8 @@ const PortfolioDetailsMain = ({singleData}) => {
                         <p>Graphic design is a creative and visual communication discipline that involves the art and practice of planning and projecting ideas and experiences with visual and textual content. It is a versatile field used in various media, such as print, digital, and multimedia, to convey messages, concepts, or information in an aesthetically pleasing and impactful manner.</p>
                         <p>Graphic designers use various software tools like Adobe Photoshop, Illustrator, InDesign, and others to create their designs. The field continues to evolve with technological advancements and changing design trends, but the fundamental principles of visual communication and creativity remain at its core. Graphic design is integral to marketing,</p>
                     </div>
-                </div>
-                <div className="row mt-20">
+                </div> */}
+                {/* <div className="row mt-20">
                     <div className="col-lg-4 lg-mb-15">
                         <h3>The Solutions</h3>
                     </div>
@@ -69,7 +69,7 @@ const PortfolioDetailsMain = ({singleData}) => {
                         <p>Graphic design is a creative and visual communication discipline that involves the art and practice of planning and projecting ideas and experiences with visual and textual content. It is a versatile field used in various media, such as print, digital, and multimedia,</p>
                         <p>Graphic designers use various software tools like Adobe Photoshop, Illustrator, InDesign, and others to create their designs. The field continues to evolve with ,</p>
                     </div>
-                </div>
+                </div> */}
             </div>
         </div>
     );

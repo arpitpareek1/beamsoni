@@ -37,7 +37,7 @@ const ContactTwo = () => {
                     <i className="flaticon-telephone-call"></i>
                     <span>Phone :</span>
                     <h6>
-                      <Link href="tel:+919468837019">+91 94688 37019</Link>
+                      <Link href="tel:+917374012228">+91 7374012228</Link>
                     </h6>
                   </div>
                 </div>
@@ -45,9 +45,9 @@ const ContactTwo = () => {
                   <div className="contact__one-item">
                     <i className="flaticon-mail"></i>
                     <span>Email Address :</span>
-                    <h6>
-                      <Link href="mailto:help@gmail.com">help@gmail.com</Link>
-                    </h6>
+                    <Link href="mailto:beamsonicenergy@gmail.com">
+                      <p>beamsonicenergy@gmail.com</p>
+                    </Link>
                   </div>
                 </div>
                 <div className="col-md-6 md-mb-25">
@@ -56,7 +56,7 @@ const ContactTwo = () => {
                     <span>Location :</span>
                     <h6>
                       <Link href="https://google.com/maps">
-                        502, Aarohi Homes, Mansarovar, Jaipur
+                        M 2 shree amar heights Mezzanine floor Ajmer road
                       </Link>
                     </h6>
                   </div>
@@ -75,8 +75,13 @@ const ContactTwo = () => {
       </div>
       <div className="contact__two-map">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3560.288292085279!2d75.75741997647691!3d26.83078137669606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db569ac20d473%3A0xfa2030de3b46ee59!2sAAROHI%20HOMES!5e0!3m2!1sen!2sin!4v1748122824021!5m2!1sen!2sin"
+          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1019.3295978025224!2d75.7416321!3d26.8912117!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db57ea4a53367%3A0x4562ffc79a244028!2sShree%20Amar%20Height!5e1!3m2!1sen!2sin!4v1749018053849!5m2!1sen!2sin"
+          width="600"
+          height="450"
+          style={{ border: 0 }}
+          allowfullscreen=""
           loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
         ></iframe>
       </div>
       <FooterOne />

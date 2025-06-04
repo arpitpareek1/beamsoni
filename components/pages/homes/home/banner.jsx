@@ -114,7 +114,7 @@ const BannerOne = () => {
                     <div className="col-md-4 col-sm-5 sm-mb-15">
                       <div className="banner__one-capacity-item sm-t-center">
                         <h3>
-                          <Count number={3886} />
+                          <Count number={50} />+
                         </h3>
                         <h6>Successfully done</h6>
                       </div>
@@ -122,7 +122,7 @@ const BannerOne = () => {
                     <div className="col-md-4 col-sm-5">
                       <div className="banner__one-capacity-item sm-t-center">
                         <h3>
-                          <Count number={24456} />
+                          <Count number={300} /> MV
                         </h3>
                         <h6>INSTALLED CAPACITY</h6>
                       </div>

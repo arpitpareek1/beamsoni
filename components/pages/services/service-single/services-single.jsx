@@ -37,7 +37,7 @@ const ServicesSingleMain = ({serviceDetails}) => {
                                 <div className="all__sidebar-item-help-contact">
                                     <div className="all__sidebar-item-help-contact-content">
                                         <span>Quick Help</span>
-                                        <h6><Link href="tel:+919468837019">+91 94688 37019</Link></h6>
+                                        <h6><Link href="tel:+917374012228">+91 7374012228</Link></h6>
                                     </div>
                                 </div>
                             </div>

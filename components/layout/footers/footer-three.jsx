@@ -21,12 +21,12 @@ const FooterThree = () => {
                             <div className="footer__cta-area-item">
                                 <i className="flaticon-mail"></i>
                                 <span>Email Address</span>
-                                <h6><Link href="mailto:hello.help@gmail.com">hello.help@gmail.com</Link></h6>
+                                <h6><Link href="mailto:beamsonicenergy@gmail.com">beamsonicenergy@gmail.com</Link></h6>
                             </div>
                             <div className="footer__cta-area-item">
                                 <i className="flaticon-location-1"></i>
                                 <span>Location</span>
-                                <h6><Link href="https://google.com/maps">12/A, New Boston, NYC</Link></h6>
+                                <h6><Link href="https://google.com/maps">M 2 shree amar heights Mezzanine floor Ajmer road</Link></h6>
                             </div>
                         </div>
                     </div>

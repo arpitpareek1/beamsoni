@@ -23,14 +23,14 @@ const HeaderOne = () => {
               <div className="topBar__one-left lg-t-center">
                 <ul>
                   <li>
-                    <Link href="mailto:need.help@gmail.com">
-                      <i className="flaticon-envelope"></i>hello@beamsonic.com
+                    <Link href="mailto:beamsonicenergy@gmail.com">
+                      <i className="flaticon-envelope"></i>beamsonicenergy@gmail.com
                     </Link>
                   </li>
                   <li>
                     <Link href="https://google.com/maps">
-                      <i className="flaticon-placeholder"></i>502, Aarohi Homes,
-                      Mansarovar, Jaipur
+                      <i className="flaticon-placeholder"></i>
+                      M 2 shree amar heights Mezzanine floor Ajmer road
                     </Link>
                   </li>
                 </ul>

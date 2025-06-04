@@ -17,7 +17,7 @@ const Services = () => {
                     </div>
                 </div>
                 <div className="row">
-                    {servicesData?.slice(0, 3)?.map((data, id) => (
+                    {servicesData?.map((data, id) => (
                         <div className="col-lg-4 col-md-6" key={id}>
                             <div className="service__one-item" style={{backgroundImage: `url(${shape.src})`}}>
                                 <div className="service__one-item-icon">

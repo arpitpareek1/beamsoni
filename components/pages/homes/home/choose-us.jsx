@@ -50,7 +50,7 @@ const ChooseUs = () => {
                       If your have any Questions
                       <br />
                       Feel free to contact{" "}
-                      <Link href="tel:+919468837019"> +91 94688 37019</Link>
+                      <Link href="tel:+917374012228"> +91 7374012228</Link>
                     </h6>
                   </div>
                 </div>

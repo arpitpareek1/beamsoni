@@ -27,15 +27,15 @@ const CtaArea = () => {
                 <div className="col-lg-5">
                   <div className="cta__one-contact lg-jc-center">
                     <div className="cta__one-contact-icon">
-                      <i className="flaticon-phone-call"></i>
+                      <i className="flaticon-mail"></i>
                     </div>
                     <div className="cta__one-contact-info">
                       <span>Free contact 24/7</span>
-                      <h6>
-                        <Link href="tel:+919468837019">
-                        +91 94688 37019
-                        </Link>
-                      </h6>
+                      <Link href="mailto:beamsonicenergy@gmail.com">
+                      <p style={{
+                        color: "#fefefe"
+                      }}>beamsonicenergy@gmail.com</p>
+                    </Link>
                     </div>
                   </div>
                 </div>

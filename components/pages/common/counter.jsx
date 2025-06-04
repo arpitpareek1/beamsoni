@@ -11,7 +11,7 @@ const CounterSection = ({addClass}) => {
                             <div className="counter__two-grid">
                                 <div className="counter__two-item">
                                     <i className="flaticon-project"></i>
-                                    <h3><Count number={1} /><b>k</b></h3>
+                                    <h3><Count number={50} /><b>+</b></h3>
                                     <p>Project Success</p>
                                 </div>
                                 <div className="counter__two-item">

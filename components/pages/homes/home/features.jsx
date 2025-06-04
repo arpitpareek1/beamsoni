@@ -12,7 +12,7 @@ const Features = () => {
                             <h4>Your Trusted Energy Partner</h4>
                             <div className="features__one-left-client lg-jc-center dark_image">
                                 {/* <img src={avatar.src} alt="client-image" /> */}
-                                <h6>12,000+ Customer Reviews</h6>
+                                <h6>40+ Customer Reviews*</h6>
                             </div>
                         </div>
                     </div>

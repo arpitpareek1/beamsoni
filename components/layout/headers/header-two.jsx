@@ -21,8 +21,8 @@ const HeaderOne = ({addClass}) => {
                     <div className="col-lg-8">
                         <div className="topBar__one-left lg-t-center">
                             <ul>
-                                <li><Link href="mailto:need.help@gmail.com"><i className="flaticon-envelope"></i>need.help@gmail.com</Link></li>
-                                <li><Link href="https://google.com/maps"><i className="flaticon-placeholder"></i>2464 Royal Ln. Mesa, New Jersey 45463</Link></li>
+                                <li><Link href="mailto:beamsonicenergy@gmail.com"><i className="flaticon-envelope"></i>beamsonicenergy@gmail.com</Link></li>
+                                <li><Link href="https://google.com/maps"><i className="flaticon-placeholder"></i>M 2 shree amar heights Mezzanine floor Ajmer road</Link></li>
                             </ul>
                         </div>
                     </div>

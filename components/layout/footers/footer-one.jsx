@@ -32,8 +32,8 @@ const FooterOne = () => {
                           <div className="info">
                             <span>Need any help</span>
                             <h6>
-                              <Link href="tel:+919468837019">
-                                +91 94688 37019
+                              <Link href="tel:+917374012228">
+                                +91 7374012228
                               </Link>
                             </h6>
                           </div>
@@ -70,7 +70,7 @@ const FooterOne = () => {
                 <div className="footer__area-widget-company">
                   <p>
                     <Link href="https://google.com/maps">
-                      502, Aarohi Homes, Mansarovar, Jaipur
+                      M 2 shree amar heights Mezzanine floor Ajmer road
                     </Link>
                   </p>
                   <div className="social__icon mt-60">
@@ -86,10 +86,10 @@ const FooterOne = () => {
                     <h6>Phone</h6>
                     <div className="footer__area-widget-info mb-35">
                       <p>
-                        <Link href="tel:+91 94688 37019"></Link>
+                        <Link href="tel:+91 7374012228"></Link>
                       </p>
                       <p>
-                        <Link href="tel:+91 94688 37019"></Link>
+                        <Link href="tel:+91 7374012228"></Link>
                       </p>
                     </div>
                     <h6>Email</h6>

@@ -22,7 +22,7 @@ const teamData = [
         name: 'Mitesh Veer',
         position: 'Founder',
         mail: 'mitesh@beamsonic.com',
-        phone: '+91 94688 37019',
+        phone: '+91 7374012228',
         category: 'founder',
         social_link: [
             { link: 'https://twitter.com', target: '_blank', icon: <i className="fa-brands fa-x-twitter"></i> },

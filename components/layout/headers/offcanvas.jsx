@@ -25,7 +25,7 @@ const SideBar = ({ isOpen, setIsOpen, addClass }) => {
 						</div>
 						<div className="header__area-menubar-right-sidebar-popup-contact-item-content">
 							<span>Call Now</span>
-							<h6><Link href="tel:+919468837019">+91 94688 37019</Link></h6>
+							<h6><Link href="tel:+917374012228">+91 7374012228</Link></h6>
 						</div>
 					</div>
 					<div className="header__area-menubar-right-sidebar-popup-contact-item">
@@ -43,7 +43,7 @@ const SideBar = ({ isOpen, setIsOpen, addClass }) => {
 						</div>
 						<div className="header__area-menubar-right-sidebar-popup-contact-item-content">
 							<span>Office Address</span>
-							<h6><Link href="https://google.com/maps" target="_blank">502, Aarohi Homes, Mansarovar, Jaipur</Link></h6>
+							<h6><Link href="https://google.com/maps" target="_blank">M 2 shree amar heights Mezzanine floor Ajmer road</Link></h6>
 						</div>
 					</div>
 				</div>

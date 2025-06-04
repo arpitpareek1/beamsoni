@@ -8427,6 +8427,11 @@ Responsive Menu Css
   line-height: 30px;
   font-weight: 700;
 }
+.contact__one-item p {
+  font-size: 17px;
+  line-height: 30px;
+  font-weight: 700;
+}
 .contact__one-item h6 a {
   transition: 0.4s;
 }
